@@ -1,65 +1,52 @@
-## Olá, eu sou o Guilherme! 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
+###
 
-💻 Desenvolvedor Front-end Júnior apaixonado por tecnologia e por criar interfaces modernas, responsivas e funcionais.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-📍 Localização: São Paulo, Brasil
-🎓 Estudante de TI na EBAC
+###
 
-## 🚀 Sobre mim
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-Sou um Desenvolvedor Front-end Júnior focado em desenvolvimento web moderno.
-Atualmente estudo na EBAC, onde venho aprofundando meus conhecimentos em tecnologias de front-end e boas práticas de desenvolvimento.
+###
 
-Gosto de criar interfaces bem estruturadas, responsivas e com boa experiência de usuário.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
-## 💻 Front-end
+###
 
-Javascript
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-React.js
-
-HTML5
-
-CSS3
-
- ## Estilização🎨
-
-TailwindCSS
-
-Bootstrap
-
-Sass
-
-Styled-components
-
-## 🔗 Integração
-
-API RESTful
-
-📚 Atualmente
-
-📖 Estudando Desenvolvimento Web na EBAC
-
-⚛️ Aprimorando minhas habilidades em React.js
-
-🧠 Estudando boas práticas de arquitetura e organização de projetos
-
-💼 Construindo projetos para fortalecer meu portfólio
-
- ## GitHub Stats 📊
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuizFariaPeres&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
-
-🌐 Vamos nos conectar
-
-💼 LinkedIn: [Conecte-se a mim]( https://www.linkedin.com/in/guilherme-peres-0a20212a1/)
-
-📧 Email: [Me manda uma mensagem](luiz.guilherme.sdr@gmail.com)
-
-⭐ Sempre aberto a novos aprendizados, colaborações e oportunidades como desenvolvedor júnior.
+###
